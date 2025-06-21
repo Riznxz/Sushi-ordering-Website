@@ -22,21 +22,7 @@ CSS3
 
 JavaScript
 
-📸 Screenshots
-(You can add screenshots of your homepage, menu section, and cart here later!)
 
-🚀 How to Run Locally
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/sushi-ordering-website.git
-Open the project folder.
-
-Open index.html in your browser.
-
-Enjoy browsing and ordering sushi online!
 
 📬 Contact
 For any queries or suggestions, feel free to reach out:
